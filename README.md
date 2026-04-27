@@ -2,7 +2,7 @@
 
 **Analista de datos | Administración | SQL · Python · Excel ·  Power BI · Tableau **
 
-[LinkedIn](www.linkedin.com/in/anaromerovalderrama) · [Email](anitaromero25@gmail.com)
+(www.linkedin.com/in/anaromerovalderrama) · [Email](anitaromero25@gmail.com)
 
 ---
 
