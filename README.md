@@ -38,9 +38,7 @@ Aquí encontrarás algunos de los proyectos que he desarrollado durante mi forma
 Cada uno representa un paso en mi aprendizaje y evolución profesional.
 
 ---
-## 🚀 Objetivo profesional
-
-## 🎯 Objetivos profesionales
+## 🚀 Objetivos profesionales
 
 Busco seguir creciendo en el área de **Análisis de Datos**, participando en proyectos donde pueda:
 
